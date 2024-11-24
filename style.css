@@ -166,17 +166,16 @@ footer
 #box
 {
     width: 180px;
-    margin-left: 20%;
+    margin-left: 15%;
     font-size: 15px;
    padding: 10px 20px;
    border-radius: 15px;
    background-color: black;
    color: white;
 }
-#India
-{
-    text-align: left;
-    margin-bottom: 30px;
+.last h6{
+    color: white;
+    margin-left: 15%;
 }
 .food
 {
